@@ -1,6 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-.DS_Store
+*.DS_Store
 *.py[cod]
 *$py.class
 
@@ -323,4 +323,4 @@ TSWLatexianTemp*
 
 # other files
 nyc_car_hire_data.csv
-.DS_Store
+*.DS_Store
